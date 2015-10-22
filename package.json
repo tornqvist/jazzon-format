@@ -1,0 +1,30 @@
+{
+  "name": "jazzon-format",
+  "version": "1.0.0",
+  "description": "Format strings using util.format",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tornqvist/jazzon-format.git"
+  },
+  "keywords": [
+    "jazzon",
+    "format",
+    "mock",
+    "interpolate"
+  ],
+  "author": "Carl Törnqvist <calle.tornqvist@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tornqvist/jazzon-format/issues"
+  },
+  "homepage": "https://github.com/tornqvist/jazzon-format#readme",
+  "devDependencies": {
+    "eslint": "^1.7.3",
+    "jazzon": "^0.2.3",
+    "tape": "^4.2.2"
+  }
+}
